@@ -31,5 +31,14 @@ I also have a simple responsive gallery built with CSS grid. It&#39;ll look grea
       <description>Aloha OK then</description>
     </item>
     
+    <item>
+      <title>Newpage 2</title>
+      <link>http://example.org/posts/page2/</link>
+      <pubDate>Fri, 24 Jan 2020 22:11:12 +1100</pubDate>
+      
+      <guid>http://example.org/posts/page2/</guid>
+      <description>Aloha Mahalo OK then</description>
+    </item>
+    
   </channel>
 </rss>

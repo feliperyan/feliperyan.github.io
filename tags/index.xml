@@ -21,11 +21,29 @@
     </item>
     
     <item>
+      <title>photos</title>
+      <link>http://example.org/tags/photos/</link>
+      <pubDate>Fri, 24 Jan 2020 22:11:12 +1100</pubDate>
+      
+      <guid>http://example.org/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>story</title>
       <link>http://example.org/tags/story/</link>
       <pubDate>Fri, 24 Jan 2020 22:11:12 +1100</pubDate>
       
       <guid>http://example.org/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>http://example.org/tags/tech/</link>
+      <pubDate>Fri, 24 Jan 2020 22:11:12 +1100</pubDate>
+      
+      <guid>http://example.org/tags/tech/</guid>
       <description></description>
     </item>
     
