@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jan 2020 22:26:26 +1100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Fri, 24 Jan 2020 22:26:26 +1100</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Hello, I&#39;m Sam. I&#39;m a theme for Hugo. I&#39;m an extremely customizable, content-focused theme that lets you showcase your work your way.
+I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
+I also have a simple responsive gallery built with CSS grid. It&#39;ll look great on any screen, and all you have to do is provide a folder of images.</description>
+    </item>
+    
+    <item>
+      <title>Newpage</title>
+      <link>http://example.org/posts/newpage/</link>
+      <pubDate>Fri, 24 Jan 2020 22:11:12 +1100</pubDate>
+      
+      <guid>http://example.org/posts/newpage/</guid>
+      <description>Aloha OK then</description>
+    </item>
+    
+  </channel>
+</rss>
