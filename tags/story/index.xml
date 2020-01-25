@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>story on My New Hugo Site</title>
-    <link>http://example.org/tags/story/</link>
-    <description>Recent content in story on My New Hugo Site</description>
+    <title>story on Words and Images</title>
+    <link>http://feliperyan.github.io/tags/story/</link>
+    <description>Recent content in story on Words and Images</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jan 2020 22:11:12 +1100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/story/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://feliperyan.github.io/tags/story/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Newpage</title>
-      <link>http://example.org/posts/newpage/</link>
+      <link>http://feliperyan.github.io/posts/newpage/</link>
       <pubDate>Fri, 24 Jan 2020 22:11:12 +1100</pubDate>
       
-      <guid>http://example.org/posts/newpage/</guid>
+      <guid>http://feliperyan.github.io/posts/newpage/</guid>
       <description>Aloha OK then</description>
     </item>
     

@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/k3-raspberrypi/</loc>
+    <loc>http://feliperyan.github.io/posts/k3-raspberrypi/</loc>
     <lastmod>2020-01-25T18:48:44+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://feliperyan.github.io/posts/</loc>
     <lastmod>2020-01-25T18:48:44+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://feliperyan.github.io/</loc>
     <lastmod>2020-01-25T18:48:44+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://feliperyan.github.io/about/</loc>
     <lastmod>2020-01-24T22:26:26+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/blog/</loc>
+    <loc>http://feliperyan.github.io/tags/blog/</loc>
     <lastmod>2020-01-24T22:11:12+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/newpage/</loc>
+    <loc>http://feliperyan.github.io/posts/newpage/</loc>
     <lastmod>2020-01-24T22:11:12+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/story/</loc>
+    <loc>http://feliperyan.github.io/tags/story/</loc>
     <lastmod>2020-01-24T22:11:12+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://feliperyan.github.io/tags/</loc>
     <lastmod>2020-01-24T22:11:12+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://feliperyan.github.io/categories/</loc>
   </url>
   
 </urlset>
