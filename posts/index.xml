@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Words and Images</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jan 2020 18:48:44 +1100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 21:01:48 +1100</lastBuildDate>
     
 	<atom:link href="http://feliperyan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dungeon Dragons Slack</title>
+      <link>http://feliperyan.github.io/posts/dungeon-dragons-slack/</link>
+      <pubDate>Sat, 25 Jan 2020 21:01:48 +1100</pubDate>
+      
+      <guid>http://feliperyan.github.io/posts/dungeon-dragons-slack/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>K3 Raspberrypi</title>

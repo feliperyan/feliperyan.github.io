@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://feliperyan.github.io/posts/k3-raspberrypi/</loc>
-    <lastmod>2020-01-25T18:48:44+11:00</lastmod>
+    <loc>http://feliperyan.github.io/tags/blog/</loc>
+    <lastmod>2020-01-25T21:01:48+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feliperyan.github.io/posts/dungeon-dragons-slack/</loc>
+    <lastmod>2020-01-25T21:01:48+11:00</lastmod>
   </url>
   
   <url>
     <loc>http://feliperyan.github.io/posts/</loc>
-    <lastmod>2020-01-25T18:48:44+11:00</lastmod>
+    <lastmod>2020-01-25T21:01:48+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feliperyan.github.io/tags/story/</loc>
+    <lastmod>2020-01-25T21:01:48+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feliperyan.github.io/tags/</loc>
+    <lastmod>2020-01-25T21:01:48+11:00</lastmod>
   </url>
   
   <url>
     <loc>http://feliperyan.github.io/</loc>
+    <lastmod>2020-01-25T21:01:48+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feliperyan.github.io/posts/k3-raspberrypi/</loc>
     <lastmod>2020-01-25T18:48:44+11:00</lastmod>
   </url>
   
@@ -23,22 +43,7 @@
   </url>
   
   <url>
-    <loc>http://feliperyan.github.io/tags/blog/</loc>
-    <lastmod>2020-01-24T22:11:12+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://feliperyan.github.io/posts/newpage/</loc>
-    <lastmod>2020-01-24T22:11:12+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feliperyan.github.io/tags/story/</loc>
-    <lastmod>2020-01-24T22:11:12+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feliperyan.github.io/tags/</loc>
     <lastmod>2020-01-24T22:11:12+11:00</lastmod>
   </url>
   
