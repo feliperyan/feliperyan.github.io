@@ -2,40 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://feliperyan.github.io/posts/</link>
+    <link>http://example.org/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2020 23:29:29 +1100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 18:48:44 +1100</lastBuildDate>
     
-	<atom:link href="https://feliperyan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Newpage3</title>
-      <link>https://feliperyan.github.io/posts/newpage3/</link>
-      <pubDate>Fri, 24 Jan 2020 23:29:29 +1100</pubDate>
+      <title>K3 Raspberrypi</title>
+      <link>http://example.org/posts/k3-raspberrypi/</link>
+      <pubDate>Sat, 25 Jan 2020 18:48:44 +1100</pubDate>
       
-      <guid>https://feliperyan.github.io/posts/newpage3/</guid>
-      <description>Mahalo OK</description>
+      <guid>http://example.org/posts/k3-raspberrypi/</guid>
+      <description>Yes it clusters Boom</description>
     </item>
     
     <item>
       <title>Newpage</title>
-      <link>https://feliperyan.github.io/posts/newpage/</link>
+      <link>http://example.org/posts/newpage/</link>
       <pubDate>Fri, 24 Jan 2020 22:11:12 +1100</pubDate>
       
-      <guid>https://feliperyan.github.io/posts/newpage/</guid>
+      <guid>http://example.org/posts/newpage/</guid>
       <description>Aloha OK then</description>
-    </item>
-    
-    <item>
-      <title>Newpage 2</title>
-      <link>https://feliperyan.github.io/posts/page2/</link>
-      <pubDate>Fri, 24 Jan 2020 22:11:12 +1100</pubDate>
-      
-      <guid>https://feliperyan.github.io/posts/page2/</guid>
-      <description>Aloha Mahalo OK then</description>
     </item>
     
   </channel>

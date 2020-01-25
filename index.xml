@@ -2,51 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://feliperyan.github.io/</link>
+    <link>http://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2020 23:29:29 +1100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 18:48:44 +1100</lastBuildDate>
     
-	<atom:link href="https://feliperyan.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Newpage3</title>
-      <link>https://feliperyan.github.io/posts/newpage3/</link>
-      <pubDate>Fri, 24 Jan 2020 23:29:29 +1100</pubDate>
+      <title>K3 Raspberrypi</title>
+      <link>http://example.org/posts/k3-raspberrypi/</link>
+      <pubDate>Sat, 25 Jan 2020 18:48:44 +1100</pubDate>
       
-      <guid>https://feliperyan.github.io/posts/newpage3/</guid>
-      <description>Mahalo OK</description>
+      <guid>http://example.org/posts/k3-raspberrypi/</guid>
+      <description>Yes it clusters Boom</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://feliperyan.github.io/about/</link>
+      <link>http://example.org/about/</link>
       <pubDate>Fri, 24 Jan 2020 22:26:26 +1100</pubDate>
       
-      <guid>https://feliperyan.github.io/about/</guid>
-      <description>Hello, I&#39;m Sam. I&#39;m a theme for Hugo. I&#39;m an extremely customizable, content-focused theme that lets you showcase your work your way.
+      <guid>http://example.org/about/</guid>
+      <description>Hello, I&amp;rsquo;m Sam. I&amp;rsquo;m a theme for Hugo. I&amp;rsquo;m an extremely customizable, content-focused theme that lets you showcase your work your way.
 I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
-I also have a simple responsive gallery built with CSS grid. It&#39;ll look great on any screen, and all you have to do is provide a folder of images.</description>
+I also have a simple responsive gallery built with CSS grid. It&amp;rsquo;ll look great on any screen, and all you have to do is provide a folder of images.</description>
     </item>
     
     <item>
       <title>Newpage</title>
-      <link>https://feliperyan.github.io/posts/newpage/</link>
+      <link>http://example.org/posts/newpage/</link>
       <pubDate>Fri, 24 Jan 2020 22:11:12 +1100</pubDate>
       
-      <guid>https://feliperyan.github.io/posts/newpage/</guid>
+      <guid>http://example.org/posts/newpage/</guid>
       <description>Aloha OK then</description>
-    </item>
-    
-    <item>
-      <title>Newpage 2</title>
-      <link>https://feliperyan.github.io/posts/page2/</link>
-      <pubDate>Fri, 24 Jan 2020 22:11:12 +1100</pubDate>
-      
-      <guid>https://feliperyan.github.io/posts/page2/</guid>
-      <description>Aloha Mahalo OK then</description>
     </item>
     
   </channel>

@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on My New Hugo Site</title>
-    <link>https://feliperyan.github.io/tags/blog/</link>
+    <link>http://example.org/tags/blog/</link>
     <description>Recent content in blog on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2020 23:29:29 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2020 22:11:12 +1100</lastBuildDate>
     
-	<atom:link href="https://feliperyan.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Newpage3</title>
-      <link>https://feliperyan.github.io/posts/newpage3/</link>
-      <pubDate>Fri, 24 Jan 2020 23:29:29 +1100</pubDate>
-      
-      <guid>https://feliperyan.github.io/posts/newpage3/</guid>
-      <description>Mahalo OK</description>
-    </item>
     
     <item>
       <title>Newpage</title>
-      <link>https://feliperyan.github.io/posts/newpage/</link>
+      <link>http://example.org/posts/newpage/</link>
       <pubDate>Fri, 24 Jan 2020 22:11:12 +1100</pubDate>
       
-      <guid>https://feliperyan.github.io/posts/newpage/</guid>
+      <guid>http://example.org/posts/newpage/</guid>
       <description>Aloha OK then</description>
     </item>
     
